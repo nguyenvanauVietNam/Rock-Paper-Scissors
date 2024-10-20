@@ -1,0 +1,24 @@
+File,Line,Column,Error
+./rps.py,3,80,E501 line too long (92 > 79 characters)
+./rps.py,4,80,E501 line too long (80 > 79 characters)
+./rps.py,15,1,"E302 expected 2 blank lines, found 1"
+./rps.py,26,1,"E302 expected 2 blank lines, found 1"
+./rps.py,28,80,E501 line too long (87 > 79 characters)
+./rps.py,30,80,E501 line too long (92 > 79 characters)
+./rps.py,34,1,"E302 expected 2 blank lines, found 1"
+./rps.py,39,1,"E302 expected 2 blank lines, found 1"
+./rps.py,44,1,"E302 expected 2 blank lines, found 1"
+./rps.py,59,1,"E302 expected 2 blank lines, found 1"
+./rps.py,69,1,"E302 expected 2 blank lines, found 1"
+./rps.py,74,1,"E302 expected 2 blank lines, found 1"
+./rps.py,80,80,E501 line too long (96 > 79 characters)
+./rps.py,81,80,E501 line too long (82 > 79 characters)
+./rps.py,91,1,W293 blank line contains whitespace
+./rps.py,102,80,E501 line too long (90 > 79 characters)
+./rps.py,105,80,E501 line too long (95 > 79 characters)
+./rps.py,118,80,E501 line too long (94 > 79 characters)
+./rps.py,120,80,E501 line too long (104 > 79 characters)
+./rps.py,122,1,"E305 expected 2 blank lines after class or function definition, found 1"
+./rps.py,128,1,W293 blank line contains whitespace
+./rps.py,136,1,W293 blank line contains whitespace
+./rps.py,139,1,W293 blank line contains whitespace
